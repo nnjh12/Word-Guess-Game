@@ -1,0 +1,42 @@
+body {
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    background-image:url(../images/pexels-photo-1028599.jpeg);
+    background-position: center top;
+    background-size: 100% auto;
+}
+
+
+h1 {
+    font-size: 30px;
+    padding: 10px;
+    color: green;
+}
+
+
+.jumbotron {
+    width:40%;
+    height: 100%;
+    box-sizing: border-box;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 30px;
+    background: rgba(255,255,255, 0.6)
+}
+
+.btn {
+    width: 150px;
+    margin:10px;
+}
+
+.button_title {
+    float:left;
+    color: black;
+
+}
+
+.button_content {
+    float:right;
+    color: black;
+}
